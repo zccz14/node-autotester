@@ -2,8 +2,6 @@
 
 An auto tester built with node.js
 
-Maintence 
-
 **Notice: Now just for native testing, NOT USE IT in your project please.**
 
 **Notice: Now Only g++ available, and consider other build tools later**.
