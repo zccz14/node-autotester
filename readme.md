@@ -47,7 +47,7 @@ edit your code in directory `src`
 
 ```
 |- src
-    |- main.cpp         # Your code to be tested.
+    |- testing.cpp      # Your code to be tested.
     |- stardard.cpp     # The Standard Code. Ensure its reliablity please.
     |- generator.cpp    # The program to generate random testing data.
 ```
