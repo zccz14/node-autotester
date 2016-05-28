@@ -1,6 +1,6 @@
 {
   "name": "node-autotester",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An auto tester built with node.js",
   "main": "index.js",
   "scripts": {
